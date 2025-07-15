@@ -1,0 +1,303 @@
+code,name,sector,domain
+CBA,Commonwealth Bank of Australia,Financial Services,commbank.com.au
+CSL,CSL Limited,Healthcare,csl.com.au
+BHP,BHP Group Limited,Basic Materials,bhp.com
+WBC,Westpac Banking Corporation,Financial Services,westpac.com.au
+NAB,National Australia Bank Limited,Financial Services,nab.com.au
+ANZ,ANZ Group Holdings Limited,Financial Services,anz.com.au
+MQG,Macquarie Group Limited,Financial Services,macquarie.com.au
+WES,Wesfarmers Limited,Consumer Cyclical,wesfarmers.com.au
+WOW,Woolworths Group Limited,Consumer Defensive,woolworthsgroup.com.au
+TLS,Telstra Group Limited,Communication Services,telstra.com.au
+TCL,Transurban Group,Industrials,transurban.com
+RIO,Rio Tinto Group,Basic Materials,riotinto.com
+FMG,Fortescue Ltd,Basic Materials,fortescue.com
+WPL,Woodside Petroleum,Energy,woodside.com
+GMG,Goodman Group,Real Estate,goodman.com
+NCM,Newcrest Mining,Materials,ncm.com
+ALL,Aristocrat Leisure Limited,Consumer Cyclical,aristocrat.com
+SCG,Scentre Group,Real Estate,scentregroup.com
+COL,Coles Group Limited,Consumer Defensive,colesgroup.com.au
+SYD,SYD Airport FP Ordinary/Units Stapled Securities,Industrials,syd.com.au
+BXB,Brambles Limited,Industrials,brambles.com
+IAG,Insurance Australia Group Limited,Financial Services,iag.com.au
+STO,Santos Limited,Energy,santos.com
+QBE,QBE Insurance Group Limited,Financial Services,qbe.com
+SUN,Suncorp Group Limited,Financial Services,suncorpgroup.com.au
+AMC,Amcor plc,Consumer Cyclical,amcor.com
+ASX,ASX Limited,Financial Services,asx.com.au
+ORG,Origin Energy Limited,Utilities,originenergy.com.au
+RHC,Ramsay Health Care Limited,Healthcare,ramsayhealth.com
+SHL,Sonic Healthcare Limited,Healthcare,sonichealthcare.com
+REA,REA Group Limited,Communication Services,rea-group.com
+S32,South32 Limited,Basic Materials,south32.net
+AGL,AGL Energy Limited,Utilities,agl.com.au
+APA,APA Group,Utilities,apa.com.au
+COH,Cochlear Limited,Healthcare,cochlear.com
+DXS,DEXUS,Real Estate,dexus.com
+MGR,Mirvac Group,Real Estate,mirvac.com
+JHX,James Hardie Industries plc,Basic Materials,jameshardie.com.au
+FPH,Fisher & Paykel Healthcare Corporation Limited,Healthcare,fphcare.com
+TWE,Treasury Wine Estates Limited,Consumer Defensive,tweglobal.com
+XRO,Xero Limited,Technology,xero.com
+OSH,Oil Search Limited 10 Toea,Energy,osh.com.au
+SGP,Stockland,Real Estate,stockland.com.au
+GPT,The GPT Group,Real Estate,gpt.com.au
+CIM,Cimic Group Limited,Industrials,cimic.com.au
+QAN,Qantas Airways Limited,Industrials,qantas.com
+A2M,The a2 Milk Company Limited,Consumer Defensive,thea2milkcompany.com
+MFG,Magellan Financial Group Limited,Financial Services,magellangroup.com.au
+AIA,Auckland International Airport Limited,Industrials,aucklandairport.co.nz
+AZJ,Aurizon Holdings Limited,Industrials,aurizon.com.au
+LLC,Lendlease Group,Real Estate,lendlease.com
+VCX,Vicinity Centres,Real Estate,vicinity.com.au
+RMD,ResMed Inc.,Healthcare,resmed.com.au
+TAH,Tabcorp Holdings Limited,Consumer Cyclical,tabcorp.com.au
+CPU,Computershare Limited,Financial Services,computershare.com
+MPL,Medibank Private Limited,Financial Services,medibank.com.au
+CTX,Caltex Australia,Energy,ctx.com
+ORI,Orica Limited,Basic Materials,orica.com
+NST,Northern Star Resources Limited,Basic Materials,nsrltd.com
+CWN,Crown Resorts Limited,Consumer Discretionary,crownresorts.com.au
+CCL,Coca-Cola Amatil,Consumer Staples,ccl.com.au
+WOR,Worley Limited,Energy,worley.com
+SEK,SEEK Limited,Communication Services,seek.com.au
+APT,Afterpay Limited,Information Technology,afterpay.com.au
+BSL,BlueScope Steel Limited,Basic Materials,bluescope.com
+SPK,Spark New Zealand Limited,Communication Services,sparknz.co.nz
+WTC,WiseTech Global Limited,Technology,wisetechglobal.com
+ALX,Atlas Arteria Limited,Industrials,atlasarteria.com
+AWC,Alumina Limited,Materials,alumina.com
+SVW,Seven Group Holdings,Industrials,sghl.com.au
+AMP,AMP Limited,Financial Services,amp.com.au
+EVN,Evolution Mining Limited,Basic Materials,evolutionmining.com.au
+AST,Ausnet Services Limited,Utilities,ausnetservices.com.au
+TPM,TPG Telecom Limited,Telecommunication Services,tpgtelecom.com.au
+BPT,Beach Energy Limited,Energy,beachenergy.com.au
+QUB,Qube Holdings Limited,Industrials,qube.com.au
+BLD,Boral Limited,Materials,boral.com.au
+CHC,Charter Hall Group,Real Estate,charterhall.com.au
+SOL,Washington H. Soul Pattinson and Company Limited,Financial Services,soulpatts.com.au
+IPL,Incitec Pivot,Materials,incitecpivot.com.au
+HVN,Harvey Norman Holdings Limited,Consumer Cyclical,harveynormanholdings.com.au
+CGF,Challenger Limited,Financial Services,challenger.com.au
+DOW,Downer EDI Limited,Industrials,downergroup.com
+BEN,Bendigo and Adelaide Bank Limited,Financial Services,bendigoadelaide.com.au
+ALU,Altium Limited,Information Technology,altium.com.au
+DMP,Domino's Pizza Enterprises Limited,Consumer Cyclical,dominos.com.au
+FLT,Flight Centre Travel Group Limited,Consumer Cyclical,fctgl.com
+ALQ,ALS Limited,Industrials,alsglobal.com
+IEL,IDP Education Limited,Consumer Defensive,idp.com
+JBH,JB Hi-Fi Limited,Consumer Cyclical,jbhifi.com.au
+SGR,The Star Entertainment Group Limited,Consumer Cyclical,starentertainmentgroup.com.au
+CWY,Cleanaway Waste Management Limited,Industrials,cleanaway.com.au
+CAR,CAR Group Limited,Communication Services,cargroup.com
+FBU,Fletcher Building Limited,Basic Materials,fletcherbuilding.com
+ILU,Iluka Resources Limited,Basic Materials,iluka.com
+ORA,Orora Limited,Consumer Cyclical,ororagroup.com
+ANN,Ansell Limited,Healthcare,ansell.com
+VEA,Viva Energy Group Limited,Energy,vivaenergy.com.au
+IGO,IGO Limited,Basic Materials,igo.com.au
+SAR,Saracen Mineral,Materials,sar.com
+SKI,Spark Infrastructure Stapled $0.65 Loan Note and Unit US Prohib,Utilities,ski.com.au
+URW,Unibail-Rodamco-Westfield SE,Real Estate,urw.com
+OZL,OZ Minerals,Materials,ozminerals.com
+BOQ,Bank of Queensland Limited,Financial Services,boq.com.au
+GOZ,Growthpoint Properties Australia,Real Estate,growthpoint.com.au
+RWC,Reliance Worldwide Corporation Limited,Industrials,rwc.com
+VUK,Virgin Money Uk Plc Cdi 1:1 Foreign Exempt Lse,Financials,vuk.com
+LNK,Link Admin HLDG,Information Technology,lnk.com
+MIN,Mineral Resources Limited,Basic Materials,mineralresources.com.au
+CMW,Cromwell Property Group,Real Estate,cromwellpropertygroup.com
+NEC,Nine Entertainment Co. Holdings Limited,Communication Services,nineforbrands.com.au
+SDF,Steadfast Group Limited,Financial Services,steadfast.com.au
+PMV,Premier Investments Limited,Consumer Cyclical,premierinvestments.com.au
+NHF,nib holdings limited,Financial Services,nib.com.au
+BKW,Brickworks Limited,Basic Materials,brickworks.com.au
+PDL,Pendal Group Limited,Financials,pendalgroup.com
+IFL,Insignia Financial Ltd.,Financial Services,ioof.com.au
+APX,Appen Limited,Technology,appen.com
+WHC,Whitehaven Coal Limited,Energy,whitehavencoal.com.au
+PTM,Platinum Investment Management Limited,Financial Services,platinum.com.au
+CLW,Charter Hall Long WALE REIT,Real Estate,charterhall.com.au
+TNE,Technology One Limited,Technology,technology1.com
+APE,Eagers Automotive Limited,Consumer Cyclical,eagersautomotive.com.au
+CNU,Chorus Limited,Communication Services,chorus.co.nz
+BWP,BWP Trust,Real Estate,bwptrust.com.au
+SCP,Scalare Partners Holdings Limited,Consumer Defensive,scalarepartners.com
+SKC,SkyCity Entertainment Group Limited,Consumer Cyclical,skycityentertainmentgroup.com
+MTS,Metcash Limited,Consumer Defensive,metcash.com
+PME,Pro Medicus Limited,Healthcare,promed.com.au
+ABP,Abacus Property Group FP Ordinary/Units Stapled Securities,Real Estate,abp.com.au
+IRE,Iress Limited,Technology,iress.com
+BRG,Breville Group Limited,Consumer Cyclical,brevillegroup.com
+NXT,NEXTDC Limited,Technology,nextdc.com
+ABC,Adelaide Brighton,Materials,adelaidebrighton.com.au
+CSR,CSR Limited,Materials,csr.com.au
+CTD,Corporate Travel Management Limited,Consumer Cyclical,au.travelctm.com
+RRL,Regis Resources Limited,Basic Materials,regisresources.com.au
+NUF,Nufarm Limited,Basic Materials,nufarm.com
+SGM,Sims Limited,Basic Materials,simsltd.com
+DHG,Domain Holdings Australia Limited,Communication Services,domain.com.au
+VVR,Viva Energy REIT FP Ordinary/Units Stapled Securities,Real Estate,waypointreit.com.au
+SUL,Super Retail Group Limited,Consumer Cyclical,superretailgroup.com.au
+PPT,Perpetual Limited,Financial Services,perpetual.com.au
+NAN,Nanosonics Limited,Healthcare,nanosonics.com.au
+SBM,St Barbara Limited,Basic Materials,stbarbara.com.au
+CQR,Charter Hall Retail REIT,Real Estate,charterhall.com.au
+BIN,Bingo Industries Limited,Industrials,bingoindustries.com.au
+NWL,Netwealth Group Limited,Technology,netwealth.com.au
+BAP,Bapcor Limited,Consumer Cyclical,bapcor.com.au
+VOC,Vocus Group Limited,Telecommunication Services,vocus.com.au
+WEB,Web Travel Group Limited,Consumer Cyclical,webtravelgroup.com
+IPH,IPH Limited,Industrials,iphltd.com.au
+GNC,GrainCorp Limited,Consumer Defensive,graincorp.com.au
+HLS,Healius Limited,Healthcare,healius.com.au
+NHC,New Hope Corporation Limited,Energy,newhopegroup.com.au
+CCP,Credit Corp Group Limited,Financial Services,creditcorpgroup.com.au
+LYC,Lynas Rare Earths Limited,Basic Materials,lynasrareearths.com
+AVN,Aventus Group FP Ordinary/Units Stapled Securities,Real Estate,avn.com
+MND,Monadelphous Group Limited,Industrials,monadelphous.com.au
+IVC,Invocare Limited,Consumer Discretionary,ivc.com.au
+MP1,Megaport Limited,Technology,megaport.com
+SM1,Synlait Milk Limited,Consumer Defensive,synlait.com
+GMA,Genworth Mortgage,Financials,gma.com.au
+ARB,ARB Corporation Limited,Consumer Cyclical,arb.com.au
+CMA,Centuria Metro REIT Ordinary Units FP,Real Estate,cma.com.au
+EML,EML Payments Limited,Technology,emlpayments.com
+BKL,Blackmores Limited,Consumer Staples,blackmores.com.au
+NSR,National Storage REIT,Real Estate,nationalstorage.com.au
+CUV,Clinuvel Pharmaceuticals Limited,Healthcare,clinuvel.com
+FNP,Freedom Food Limited,Consumer Staples,fnp.com.au
+Z1P,ZIP Co Limited,Financials,zip.net.au
+NWH,NRW Holdings Limited,Industrials,nrw.com.au
+AVH,"AVITA Medical, Inc.",Healthcare,avitamedical.com
+ASB,Austal Limited,Industrials,austal.com
+PRU,Perseus Mining Limited,Basic Materials,perseusmining.com
+JHG,Janus Henderson Chess Depositary Interests 1:1,Financials,jhg.com.au
+INA,Ingenia Communities Group,Real Estate,ingeniacommunities.com.au
+CDA,Codan Limited,Technology,codan.com.au
+LOV,Lovisa Holdings Limited,Consumer Cyclical,lovisa.com
+PNV,PolyNovo Limited,Healthcare,polynovo.com
+BVS,Bravura Solutions Limited,Technology,bravurasolutions.com
+ING,Inghams Group Limited,Consumer Defensive,inghams.com.au
+CIA,Champion Iron Limited,Basic Materials,championiron.com
+GOR,Gold Road Resources Limited,Basic Materials,goldroad.com.au
+SLR,Silver Lake Resource,Materials,slr.com.au
+ISX,Isignthis Limited,Information Technology,isxgroup.com.au
+CIP,Centuria Industrial REIT,Real Estate,centuria.com.au
+NEA,Nearmap Limited,Information Technology,nearmap.com
+RSG,Resolute Mining Limited,Basic Materials,rml.com.au
+MSB,Mesoblast Limited,Healthcare,mesoblast.com
+IMF,IMF Bentham Limited,Financials,imfbentham.com
+PRN,Perenti Limited,Basic Materials,perenti.com
+MGX,Mount Gibson Iron Limited,Basic Materials,mtgibsoniron.com.au
+SSM,Service Stream Limited,Industrials,servicestream.com.au
+SFR,Sandfire Resources Limited,Basic Materials,sandfire.com.au
+CKF,Collins Foods Limited,Consumer Cyclical,collinsfoods.com
+CNI,Centuria Capital Group,Real Estate,centuria.com.au
+MMS,McMillan Shakespeare Limited,Industrials,mmsg.com.au
+AX1,Accent Group Limited,Consumer Cyclical,accentgr.com.au
+ELD,Elders Limited,Consumer Defensive,elders.com.au
+NWS,News Corporation,Communication Services,newscorp.com
+CGC,Costa Group Holdings,Consumer Staples,costagroup.com.au
+COE,Cooper Energy Limited,Energy,amplitudeenergy.com.au
+CQE,Charter Hall Social Infrastructure REIT,Real Estate,charterhall.com.au
+LIC,Lifestyle Communities Limited,Real Estate,lifestylecommunities.com.au
+GUD,G.U.D. Holdings,Consumer Discretionary,gud.com.au
+PGH,Pact Group Holdings Ltd,Consumer Cyclical,pactgroup.com
+JIN,Jumbo Interactive Limited,Consumer Cyclical,jumbointeractive.com
+BGA,Bega Cheese Limited,Consumer Defensive,begagroup.com.au
+WGX,Westgold Resources Limited,Basic Materials,westgold.com.au
+SIQ,Smartgroup Corporation Ltd,Industrials,smartgroup.com.au
+NIC,Nickel Industries Limited,Basic Materials,nickelindustries.com
+IAP,Investec Aust Prop Ordinary Units FP,Real Estate,iap.com.au
+AUB,AUB Group Limited,Financial Services,aubgroup.com.au
+OML,oOh!media Limited,Communication Services,oohmedia.com.au
+GWA,GWA Group Limited,Industrials,gwagroup.com.au
+GEM,G8 Education Limited,Consumer Defensive,g8education.edu.au
+TGR,Tassal Group Limited,Consumer Staples,tassal.com.au
+ARF,Arena REIT,Real Estate,arena.com.au
+PNI,Pinnacle Investment Management Group Limited,Financial Services,pinnacleinvestment.com
+WSA,Western Areas Limited,Materials,wsa.com.au
+RMS,Ramelius Resources Limited,Basic Materials,rameliusresources.com.au
+SHV,Select Harvests Limited,Consumer Defensive,selectharvests.com.au
+GDI,GDI Property Group,Real Estate,gdi.com.au
+HSN,Hansen Technologies Limited,Technology,hansencx.com
+VRL,Verity Resources Limited,Basic Materials,verityresources.com.au
+REG,Regis Healthcare Limited,Healthcare,regis.com.au
+MYX,Mayne Pharma Group Limited,Healthcare,maynepharma.com
+FXL,Flexigroup Limited,Financials,flexigroup.com
+KGN,Kogan.com Ltd,Consumer Cyclical,kogancorporate.com
+EHL,Emeco Holdings Limited,Industrials,emecogroup.com
+HUB,HUB24 Limited,Financial Services,hub24.com.au
+ORE,Orocobre Limited,Materials,orocobre.com.au
+SGF,SG Fleet Group Limited,Industrials,sgfleet.com
+IFM,Infomedia Ltd,Technology,infomedia.com.au
+AAC,Australian Agricultural Company Limited,Consumer Defensive,aaco.com.au
+API,Australian Pharm,Health Care,api.com.au
+AMA,AMA Group Limited,Consumer Cyclical,amagroupltd.com
+RFF,Rural Funds Group,Real Estate,ruralfunds.com.au
+KAR,Karoon Energy Ltd,Energy,karoonenergy.com.au
+SXL,Southern Cross Media Group Limited,Communication Services,sca.com.au
+EHE,Estia Health Limited,Health Care,estiahealth.com.au
+CWP,Cedar Woods Properties Limited,Real Estate,cedarwoods.com.au
+IFN,Infragreen Group Limited,Industrials,infragreen.au
+ALG,Ardentleisuregrpltd,Consumer Discretionary,alg.com
+PLS,Pilbara Minerals Limited,Basic Materials,pilbaraminerals.com.au
+SIG,Sigma Healthcare Limited,Healthcare,sigmahealthcare.com.au
+MAH,Macmahon Holdings Limited,Basic Materials,macmahon.com.au
+RDC,Redcape Hotel Group FP Units Stapled Securities,Consumer Discretionary,en.wikipedia.org
+CVN,Carnarvon Energy Limited,Energy,carnarvon.com.au
+AHY,Asaleo Care Limited,Consumer Staples,pandapaperroll.com
+ADI,Apn Industria REIT FP Ordinary/Units Stapled Securities,Real Estate,adi.com.au
+IMD,Imdex Limited,Industrials,imdex.com
+DTL,Data#3 Limited,Technology,data3.com
+NCK,Nick Scali Limited,Consumer Cyclical,nickscali.com.au
+AQG,Alacer Gold Corp Chess Depositary Interests 1:1,Materials,en.wikipedia.org
+IRI,Integrated Research Limited,Technology,ir.com
+BWX,BWX Limited,Consumer Staples,zotheysay.com
+JMS,Jupiter Mines Limited,Basic Materials,jupitermines.com
+BUB,Bubs Australia Limited,Consumer Defensive,bubsaustralia.com
+AD8,Audinate Group Limited,Technology,audinate.com
+SWM,Seven West Media Limited,Communication Services,sevenwestmedia.com.au
+SXY,SENEX Energy Limited,Energy,senexenergy.com.au
+HT1,HT&E Limited,Consumer Discretionary,hte.com
+WPP,WPP AUNZ Limited,Consumer Discretionary,wppaunzgr.com
+HPI,Hotel Property FP Ordinary/Units Stapled Securities,Real Estate,hpitrust.com.au
+ECX,Eclipx Group Limited,Financials,quadrantpe.com.au
+NGI,Navigator Global Investments Limited,Financial Services,navigatorglobal.com.au
+PET,Phoslock Environmental Technologies Limited,,
+MYS,MyState Limited,Financial Services,mystatelimited.com.au
+SPL,Starpharma Holdings Limited,Healthcare,starpharma.com
+BBN,Baby Bunting Group Limited,Consumer Cyclical,babybunting.com.au
+MNY,MONEY3 Corporation,Financials,money3.com.au
+MYR,Myer Holdings Limited,Consumer Cyclical,myer.com.au
+AMI,Aurelia Metals Limited,Basic Materials,aureliametals.com
+GXY,Galaxy Resources,Materials,gxy.com.au
+VRT,Virtus Health Limited,Health Care,virtushealth.com.au
+WAF,West African Resources Limited,Basic Materials,westafricanresources.com
+DCN,Dacian Gold Limited,Materials,dcngroup.com.au
+IGL,IVE Group Limited,Communication Services,ivegroup.com.au
+SLC,Superloop Limited,Communication Services,superloop.com
+OFX,OFX Group Limited,Financial Services,ofx.com
+INR,ioneer Ltd,Basic Materials,ioneer.com
+BGL,Bellevue Gold Limited,Basic Materials,bellevuegold.com.au
+MLD,Maca Limited,Materials,maca.org.au
+FAR,FAR Limited,Energy,far.com.au
+JHC,Japara Healthcare LT,Health Care,jhc.com.au
+MVF,Monash IVF Group Limited,Healthcare,monashivfgroup.com.au
+SDA,Speedcast Int Limited,Telecommunication Services,sda.com.au
+ITG,Intega Group Limited,Industrials,intega.com
+CDD,Cardno Limited,Industrials,cdd.com.au
+PDN,Paladin Energy Ltd,Energy,paladinenergy.com.au
+OGC,Oceanagold Corp Chess Depositary Interest 1:1,Materials,ogc.com.au
+SYR,Syrah Resources Limited,Basic Materials,syrahresources.com.au
+NCZ,New Century Resource,Materials,ncz.com
+AYS,Amaysim Aus Limited,Telecommunication Services,ays.com.au
+MEZ,Meridian Energy Limited,Utilities,meridianenergy.co.nz
+NEM,Newmont Corporation,Materials,newmont.com
+SGH,SGH Limited,Capital Goods,sghl.com.au/
+VAS,Vanguard Australian Shares Index etf,Financial Services,vanguard.com.au
+WDS,Woodside Energy Group ltd,Energy,woodside.com
+XYZ,"Block, Inc.",Financial Services,block.xyz
